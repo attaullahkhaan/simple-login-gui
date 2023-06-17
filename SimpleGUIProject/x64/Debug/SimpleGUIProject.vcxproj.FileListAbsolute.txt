@@ -1,0 +1,5 @@
+C:\Users\personal\source\repos\SimpleGUIProject\SimpleGUIProject\x64\Debug\SimpleGUIProject.vcxproj.AssemblyReference.cache
+C:\Users\personal\source\repos\SimpleGUIProject\SimpleGUIProject\x64\Debug\SimpleGUIProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\personal\source\repos\SimpleGUIProject\SimpleGUIProject\x64\Debug\SimpleGUIProject.LoginForm.resources
+C:\Users\personal\source\repos\SimpleGUIProject\SimpleGUIProject\x64\Debug\SimpleGUIProject.vcxproj.GenerateResource.cache
+C:\Users\personal\source\repos\SimpleGUIProject\SimpleGUIProject\x64\Debug\SimpleGUIProject.HomePage.resources
